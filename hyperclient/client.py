@@ -1,0 +1,2 @@
+class Hyperclient(object):
+    pass
